@@ -9,7 +9,7 @@ Gaps to close before running **Building AI Agents for Real Business Growth**. Ti
 - [x] **Whiteboard link.** Added `canva.link/6ruoc3i38l9870d` to the "How today works" slide.
 - [ ] **Whiteboard access.** Check that the Canva board opens without sign-in. Pre-build the lanes (🗣️ Questions, 🛠️ Our build, 🚀 Ideas).
 - [ ] **Send prerequisites.** Email the link to `prerequisites.html` (or the exported PDF) to all attendees **at least 5 days before** the session.
-- [ ] **Custom domain.** Point `meetup.deliverypilot.net` at the site by following `DOMAIN.md`. Then switch the links in README and the prerequisites footer.
+- [ ] **Custom domains.** Set `meetup.cambridgeaiacademy.co.uk` as the GitHub Pages domain and redirect `meetup.deliverypilot.net` to it, following `DOMAIN.md`. Then switch the links in README and the prerequisites footer.
 - [ ] **Session date, time and room.** Confirm these, then add them to the prerequisites page header and the email.
 
 ## 🟠 Accounts and access (audience is sixth-form, mostly under 18)

@@ -4,7 +4,7 @@ A 120-minute hands-on masterclass for sixth-form college students, from Cambridg
 
 🔗 **Slides (live):** https://rifaterdemsahin.github.io/sixth-form-college/
 📋 **Attendee prerequisites:** https://rifaterdemsahin.github.io/sixth-form-college/prerequisites.html
-🌐 **Custom domain (setup pending):** https://meetup.deliverypilot.net (see [`DOMAIN.md`](DOMAIN.md))
+🌐 **Custom domains (setup pending):** https://meetup.cambridgeaiacademy.co.uk (primary) and https://meetup.deliverypilot.net (redirect). See [`DOMAIN.md`](DOMAIN.md)
 🎨 **Session whiteboard (Canva):** https://canva.link/6ruoc3i38l9870d
 
 ## Agenda
@@ -27,7 +27,7 @@ A 120-minute hands-on masterclass for sixth-form college students, from Cambridg
 | `Building AI Agents for Real Business Growth.pdf` | PDF export of the deck |
 | `prerequisites.html` | Printable checklist to send attendees before the session |
 | `prerequisites.pdf` | A4 PDF export of the prerequisites page, ready to attach to an email |
-| `DOMAIN.md` | How to point `meetup.deliverypilot.net` at this site (DNS + GitHub Pages) |
+| `DOMAIN.md` | How to point `meetup.cambridgeaiacademy.co.uk` and `meetup.deliverypilot.net` at this site |
 | `TASKS.md` | Open tasks and gaps to close before the session (Wi-Fi, accounts, materials) |
 | `.github/workflows/static.yml` | Deploys the repo to GitHub Pages on every push to `main` |
 
