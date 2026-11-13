@@ -69,4 +69,4 @@ See [`TASKS.md`](TASKS.md). The main open gaps are:
 
 GitHub Pages serves everything in the repo root. Pushing to `main` triggers `.github/workflows/static.yml`, which publishes the site.
 
-🌿 **One branch only:** all work is committed straight to `main`. There are no feature branches or pull requests.
+🌿 **One branch only:** all work lands on `main`, and there are no long-lived feature branches.
